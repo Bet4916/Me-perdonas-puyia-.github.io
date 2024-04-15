@@ -1,4 +1,1 @@
-🚀 Ready to create your very own "Ask Her Out" website? 
-Join me in this step-by-step HTML tutorial where we'll design and code a personalized site to help you pop the question! 
-From layout to interactive features, I've got you covered. 
-No coding experience required - let's make your proposal unforgettable! 💻💘 #WebDevelopment #HTMLTutorial #LoveInTheCode
+Hola puyia, yo se que a veces soy muy pendejito y reconozco que llego a ser grosero pero yo lo que mas quiero es verte feliz a ti y no me gusta el faltarte al respeto, lo siento mucho por no saber hasta donde algo es un juego, lo chento mucho, utitice los escasos conocimientos que tengo de tecnologia para hacerte esto.
